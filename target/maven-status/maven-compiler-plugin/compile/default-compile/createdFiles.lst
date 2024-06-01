@@ -1,0 +1,6 @@
+argl/io/alsea/ServletInitializer.class
+argl/io/alsea/services/SuperheroService.class
+argl/io/alsea/data/Superhero.class
+argl/io/alsea/AlseaApplication.class
+argl/io/alsea/services/BaseSuperheroService.class
+argl/io/alsea/controller/SuperheroController.class

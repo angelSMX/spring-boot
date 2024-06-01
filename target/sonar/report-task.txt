@@ -1,0 +1,6 @@
+projectKey=argl.io:alsea
+serverUrl=http://localhost:9000
+serverVersion=9.9.5.90363
+dashboardUrl=http://localhost:9000/dashboard?id=argl.io%3Aalsea
+ceTaskId=AY_SRqpjEhgiehVhDCFx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY_SRqpjEhgiehVhDCFx
