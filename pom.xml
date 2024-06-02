@@ -10,10 +10,10 @@
   
   
   <groupId>argl.io</groupId>
-  <artifactId>alsea</artifactId>
+  <artifactId>heroes</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>alsea</name>
+  <name>heroes</name>
   
   <properties>
 		<java.version>11</java.version>
